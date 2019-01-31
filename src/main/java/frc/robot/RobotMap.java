@@ -16,6 +16,8 @@ package frc.robot;
 public class RobotMap {
   // For example to map the left and right motors, you could define the
   // following variables to use with your drivetrain subsystem.
+
+  // Macadamianut motors
   public static int leftMotor = 0;
   public static int rightMotor = 1;
 
